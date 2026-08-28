@@ -31,7 +31,6 @@ open_to: Collaboration · Research · Opportunities
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=1C3C3C)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=for-the-badge&logo=llama&logoColor=FF6B6B)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=00BF63)
@@ -61,6 +60,7 @@ open_to: Collaboration · Research · Opportunities
 <div align="center">
 
 <img height="180em" src="https://github-stats-extended-frontend-m5mn.vercel.app/api?username=jeevanshbhatia650-rgb&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a66c2&icon_color=0a66c2&text_color=c9d1d9&ring_color=0a66c2" />
+&nbsp;
 <img height="180em" src="https://github-stats-extended-frontend-m5mn.vercel.app/api/top-langs/?username=jeevanshbhatia650-rgb&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a66c2&text_color=c9d1d9&langs_count=8" />
 
 </div>
@@ -71,7 +71,7 @@ open_to: Collaboration · Research · Opportunities
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jeevanshbhatia650-rgb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0a66c2&ring=0a66c2&fire=FF6B35&currStreakLabel=0a66c2&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jeevanshbhatia650-rgb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0a66c2&ring=0a66c2&fire=FF6B35&currStreakLabel=0a66c2&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -81,7 +81,7 @@ open_to: Collaboration · Research · Opportunities
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jeevanshbhatia650-rgb&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=jeevanshbhatia650-rgb&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
 
 </div>
 
@@ -91,22 +91,7 @@ open_to: Collaboration · Research · Opportunities
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanshbhatia650-rgb&theme=github-compact&bg_color=0d1117&color=0a66c2&line=0a66c2&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/jeevanshbhatia650-rgb?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanshbhatia650-rgb&repo=nexsense_&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a66c2&icon_color=0a66c2&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/jeevanshbhatia650-rgb?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeevanshbhatia650-rgb&repo=generator_based_github_llm_algorithm&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0a66c2&icon_color=0a66c2&text_color=c9d1d9" />
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanshbhatia650-rgb&bg_color=0d1117&color=0a66c2&line=0a66c2&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -128,6 +113,8 @@ open_to: Collaboration · Research · Opportunities
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=jeevanshbhatia650-rgb&color=0a66c2&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,50:1e2a3a,100:0d1117&height=100&section=footer" />
 
