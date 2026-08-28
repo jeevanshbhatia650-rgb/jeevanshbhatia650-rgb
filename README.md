@@ -71,7 +71,7 @@ open_to: Collaboration · Research · Opportunities
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jeevanshbhatia650-rgb&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0a66c2&ring=0a66c2&fire=FF6B35&currStreakLabel=0a66c2&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com/?user=jeevanshbhatia650-rgb&theme=dark&hide_border=true&background=0d1117&stroke=0a66c2&ring=0a66c2&fire=FF6B35&currStreakLabel=0a66c2&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -81,7 +81,7 @@ open_to: Collaboration · Research · Opportunities
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jeevanshbhatia650-rgb&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=jeevanshbhatia650-rgb&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6" />
 
 </div>
 
@@ -91,7 +91,11 @@ open_to: Collaboration · Research · Opportunities
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanshbhatia650-rgb&bg_color=0d1117&color=0a66c2&line=0a66c2&point=ffffff&area=true&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeevanshbhatia650-rgb/jeevanshbhatia650-rgb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeevanshbhatia650-rgb/jeevanshbhatia650-rgb/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeevanshbhatia650-rgb/jeevanshbhatia650-rgb/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -119,4 +123,3 @@ open_to: Collaboration · Research · Opportunities
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a66c2,50:1e2a3a,100:0d1117&height=100&section=footer" />
 
 </div>
-
